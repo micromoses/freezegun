@@ -51,7 +51,6 @@ def test_extend_default_ignore_list():
             '_pytest.terminal.',
             '_pytest.runner.',
             'gi',
-            'prompt_toolkit',
             'tensorflow',
         ]
 
